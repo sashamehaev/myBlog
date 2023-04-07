@@ -1,0 +1,8 @@
+.post {
+    width: 800px;
+    border: 1px solid red;
+    margin: 0px auto 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
